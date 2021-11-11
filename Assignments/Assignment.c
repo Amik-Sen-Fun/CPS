@@ -6,7 +6,7 @@
 #include "library.h"
 float nondet_float();
 int const L =10,attackLen = 3, startpoint = 0; 
-float Th = 0.001;
+float Th = 0.1;
 int main()
 	{
 		
